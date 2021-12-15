@@ -52,7 +52,7 @@ Gör liknande funktioner gällande detta.
 
 ### Print_slow
 
-printar ut text långsamt för att det ska se kollt ut.
+Printar ut text långsamt för att det ska se kollt ut.
 
 ### Wishlist
 

@@ -57,7 +57,7 @@ def wishlist():
             readline=x.read().splitlines()
             print(readline)
 
-    elif answer == "2":
+    elif answer == "3":
 
         file_name = input("Vilken önskelista vill du öppna?\n")
         file_name = file_name + ".txt"
